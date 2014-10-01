@@ -1,0 +1,14 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "description": "sdfsdfs",
+  "dependencies": {
+    "opencv": "git+https://git@github.com/kaosat-dev/node-opencv.git#nodev11.x"
+  },
+  "devDependencies": {
+      "nan": "",
+      "gulp": "^3.8.5",
+      "gulp-download-atom-shell": "0.0.4",
+      "gulp-shell": "^0.2.7"
+  }
+}

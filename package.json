@@ -3,11 +3,7 @@
   "version": "0.0.1",
   "description": "sdfsdfs",
   "dependencies": {
-    "opencv": "~1.0.0"
-  },
-  "devDependencies": {
-      "gulp": "^3.8.5",
-      "gulp-download-atom-shell": "0.0.4",
-      "gulp-shell": "^0.2.7"
+    "opencv": "~1.0.0",
+    "posh": "git+https://github.com/theposhery/posh.git#master"
   }
 }

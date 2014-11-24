@@ -1,0 +1,17 @@
+{
+  "name": "Carzak",
+  "author": "Ben Farrell <ben@benfarrell.com>",
+  "version": "0.0.1",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "posh-camera": "https://github.com/theposhery/posh-camera.git#master",
+    "posh-starter": "https://github.com/theposhery/posh-starter.git#master"
+  }
+}

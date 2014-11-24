@@ -1,2 +1,11 @@
 binaries
 node_modules
+
+app/components/core-*
+app/components/paper-*
+app/components/font-*
+app/components/polymer*
+app/components/posh*
+
+*.mp4
+
